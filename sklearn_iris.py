@@ -3,10 +3,9 @@ print('loading libraries!')
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
-
 import pandas as pd
 
-upyter-notebook
+
 
 
 data = load_iris()
